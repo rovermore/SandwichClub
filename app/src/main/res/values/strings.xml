@@ -13,6 +13,9 @@
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
 
+    <!--Default sandwich image-->
+    <string name="default_sandwich_image">https://upload.wikimedia.org/wikipedia/commons/1/12/Sandwich.jpg</string>
+
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
         <item>Bosna</item>
